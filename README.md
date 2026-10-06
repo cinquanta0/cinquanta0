@@ -1,4 +1,4 @@
-### Ciao, sono Luca
+### Ciao, sono Luca D’Agostino
 
 Progetto e sviluppo **siti web** per strutture ricettive e realtà del territorio, in Salento.
 Mi occupo di tutto il percorso: design, codice, testi in più lingue, e un pannello con
@@ -23,5 +23,9 @@ di terze parti e accessibilità AA.
 #### Strumenti
 
 Astro · Tailwind CSS · React · Decap CMS · Netlify · Playwright · Git
+
+---
+
+📫 [lucaadago@gmail.com](mailto:lucaadago@gmail.com)
 
 <sub>Web developer based in Salento, Italy — I design and build websites for hospitality and local businesses.</sub>
